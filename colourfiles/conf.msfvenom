@@ -1,0 +1,32 @@
+# No platoform
+regexp=\[\-\]\ No platform was selected
+colours=red
+-
+# No arch
+regexp=\[\-\]\ No arch selected
+colours=red
+-
+# x86
+regexp=x86
+colours=red
+-
+# Compatible encoders
+regexp=Found \d+ compatible encoders
+colours=green
+-
+# Saved as file
+regexp=^Saved as:.*
+colours=cyan
+-
+# Sizes
+regexp=\d+\ bytes
+colours=magenta
+-
+# More Sizes
+regexp=size \d+
+colours=magenta
+-
+# Encoder
+regexp=\w+\/\w+
+colours=yellow
+

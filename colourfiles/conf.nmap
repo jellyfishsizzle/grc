@@ -20,7 +20,7 @@ colours=bold
 -
 # Ports
 regexp=^(\d+)\/(\w+)\s+(\w+)\s+(\S+)
-colours=default,bold green,magenta,cyan,bold yellow
+colours=default,bold green,bold green,cyan,bold yellow
 -
 # Ports Details
 regexp=^\|_?(.*)
